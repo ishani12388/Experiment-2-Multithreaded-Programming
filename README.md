@@ -3,7 +3,7 @@
 
 `C` `Pthreads` `OpenMP` `Mutex` `Synchronization` `Multithreading`
 
-**Name:** Chaitra  |  **Roll No:** 253  |  **Course:** PG Parallel Computing
+**Name:** Ishani  |  **Roll No:** 262  |  **Course:** PG Parallel Computing
 
 ---
 
